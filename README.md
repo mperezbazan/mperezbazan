@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning at Microverse,  a remote software development school learning about React, Ruby and Rails, doing pair programming projects working with multicultural remote teams
 
 <!--
 **mperezbazan/mperezbazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
